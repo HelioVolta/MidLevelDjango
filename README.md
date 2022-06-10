@@ -27,6 +27,7 @@ We are Heliovolta. HelioVolta is a solar and energy storage software and technic
 ## Who are we looking for?
 - We are looking for a **Django** developer with **1+ years** of hands-on experience
 - Someone who is **willing to grow with us**, our software and our clients
+- Someone who is fluent in **English and Spanish**, and based on a **CEST +/- 2 hours timezone**, ideally Spain.
 
 ![HackerMan](https://media.giphy.com/media/26tPnAAJxXTvpLwJy/giphy.gif)
 

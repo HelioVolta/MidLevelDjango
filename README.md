@@ -39,7 +39,7 @@ We are Heliovolta. HelioVolta is a solar and energy storage software and technic
 
 
 ## How can I participate in the process?
-- You can regster to the offer on linkedin: https://bit.ly/3O2nAIT
+- You can regster to the offer on linkedin: https://bit.ly/3tAf3oB
 - You can send an email to: dmojica@heliovolta.com
 
 
